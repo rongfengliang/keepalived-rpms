@@ -1,2 +1,2 @@
-# keepalived-rpms
-keepalived-rpms
+# my-rpms
+my-rpms
